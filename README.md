@@ -34,6 +34,8 @@ Implementing Complete Backend
     3. Rohit Surya
     4. Kishor Kumar
     5. Kathiraven
+    6. SubhaShree 
+    (Might be some typo)
 
 ## Version History
 
