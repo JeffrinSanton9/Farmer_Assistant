@@ -1,0 +1,23 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+*.env
+
+# Virtual environments
+backend/LanguageTranslation/
+backend/LanguageTranslation_old/
+
+# Database files
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
+
