@@ -30,6 +30,9 @@ nvidia-nvtx-cu12==12.8.90
 packaging==25.0
 pip==24.0
 pydantic==2.11.7
+pyttsx3==2.90
+gtts==2.4.0
+pygame==2.5.2
 pydantic_core==2.33.2
 PyYAML==6.0.2
 regex==2025.9.1
